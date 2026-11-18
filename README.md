@@ -281,3 +281,5 @@ If the bounty has a local grader, run it — it scores your entry on practice da
 ---
 
 <sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/e9rh0d32 · code `e9rh0d32`</sub>
+
+<!-- rebuilt 2026-11-18 for transcript provenance -->
